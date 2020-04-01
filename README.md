@@ -1,4 +1,4 @@
-# Hackintosh-OptiPlex-9020SFF
+# Hackintosh-OptiPlex-9020-SFF
 **Only tested on Clover EFI bootloader.**
 
 This is the Hackintosh EFI Folder for Dell OptiPlex 9020 Small Form Factor. The configuration settings support MacOS Catalina 10.15.3 with resolution up to 2560 x 1440. HiPDI support can be actived with [One Key HiDPI](https://github.com/xzhih/one-key-hidpi/blob/master/README.md) script. Because wake up from deep sleep will cause a kernel panic, so I blocked sleep in BIOS. You will have to **generate a new serial and SmUUID** before login to your iCloud account.
